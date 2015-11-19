@@ -1,0 +1,10 @@
+---
+
+sulfur_hostname: "src.sulfur.32h.ru"
+sulfur_repo: "ssh://git@github.com/user/bitrixproject.git"
+sulfur_default_branch: "master"
+
+developers:
+  - ivanov
+  - petrov
+  - sidorov
