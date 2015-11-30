@@ -1,5 +1,0 @@
----
-# default variables for sulfur role
-
-sulfur_developers_domain_part: "dev"
-sulfur_branch_domain_aprt: "branch"

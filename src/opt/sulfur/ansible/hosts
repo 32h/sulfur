@@ -1,3 +1,0 @@
-#//TODO: Конфиг брать из битриксового при установке
-[sulfur-host]
-src.sulfur.32h.ru ansible_connection=local ansible_ssh_host=185.125.216.213

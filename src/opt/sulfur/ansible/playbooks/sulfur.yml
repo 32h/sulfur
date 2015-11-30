@@ -1,5 +1,0 @@
----
-# This playbook manage sulfur server
-- hosts: sulfur-host
-  roles:
-  - sulfur
